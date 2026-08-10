@@ -73,7 +73,7 @@ function Contact() {
                   {/* GITHUB */}
 
                   <a
-                    href="https://github.com/NightFall-59"
+                    href="https://nightfall-59.github.io/my-portfolio/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="social-link"
