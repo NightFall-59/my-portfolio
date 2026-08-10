@@ -1,0 +1,48 @@
+.process{
+    background:#0B0B0B;
+}
+
+.process h2{
+    text-align:center;
+    margin-bottom:50px !important;
+}
+
+.process-card{
+    background:#171717 !important;
+    border:1px solid #2a2a2a;
+    border-radius:18px;
+    max-width:900px;
+    margin:auto;
+}
+
+.process .ant-timeline{
+    margin-top:20px;
+}
+
+.process .ant-timeline-item-tail{
+    border-left:2px solid #333;
+}
+
+.process .ant-timeline-item-head{
+    color:#D6232A;
+    border-color:#D6232A;
+    background:#171717;
+}
+
+.process .ant-timeline-item-content{
+    color:#fff;
+    font-size:16px;
+    padding-bottom:20px;
+}
+
+.process-text{
+    margin-top:35px !important;
+    color:#bcbcbc !important;
+    text-align:center;
+    line-height:1.8;
+}
+
+.process-card:hover{
+    border-color:#D6232A;
+    transition:.3s;
+}

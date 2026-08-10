@@ -1,0 +1,45 @@
+.quote{
+    background:#111111;
+    display:flex;
+    justify-content:center;
+}
+
+.quote-card{
+    width:700px;
+    background:#D6232A !important;
+    border:none;
+    border-radius:20px;
+    text-align:center;
+    padding:30px;
+}
+
+.quote-card h2{
+    color:#fff !important;
+    font-size:42px !important;
+    line-height:1.3;
+    margin-bottom:25px !important;
+}
+
+.quote-card p{
+    color:#f2f2f2 !important;
+    font-size:17px;
+    line-height:1.8;
+    margin-bottom:35px !important;
+}
+
+.quote-card .ant-btn{
+    background:#fff;
+    color:#D6232A;
+    border:none;
+    font-weight:bold;
+}
+
+.quote-card .ant-btn:hover{
+    background:#111 !important;
+    color:#fff !important;
+}
+
+.quote-card:hover{
+    transform:translateY(-8px);
+    transition:.3s;
+}

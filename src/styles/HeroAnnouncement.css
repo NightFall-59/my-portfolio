@@ -1,0 +1,21 @@
+.hero-announcement{
+  width:480px;
+  max-width:100%;
+  overflow:hidden;
+  margin-bottom:25px;
+  white-space:nowrap;
+}
+
+.hero-announcement-track{
+  display:flex;
+  width:max-content;
+  will-change:transform;
+}
+
+.hero-announcement-track span{
+  flex:none;
+  color:#aaa;
+  font-size:14px;
+  padding-right:80px;
+  white-space:nowrap;
+}
